@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kyk1aIBdLNOyWUlzUA6ICGJ7lcYwE8Sa6FNfQUUdIUfxqmZlCt4y2JnSBBrh6eNHLvER56rS+VMeCVFafv+mbg==",
+  "dgSpecHash": "9pFii8+8Dtn2ohjpgSHwdeQ57ZNv8a2B9HtIW3pF/KBDED+myn53qgYWvvsr+Ee5p0tueRF8kmqv7d4Ykg9LHw==",
   "success": true,
-  "projectFilePath": "D:\\TaskManagerProject\\TaskManager\\TaskManager\\TaskManager.csproj",
+  "projectFilePath": "C:\\Users\\Slava\\Source\\Repos\\Slava-Task-Manager-Project\\TaskManager\\TaskManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
